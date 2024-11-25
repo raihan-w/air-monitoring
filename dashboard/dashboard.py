@@ -5,7 +5,7 @@ import seaborn as sns
 import streamlit_antd_components as sac
 import streamlit_shadcn_ui as ui
 
-main_data = pd.read_csv('main_data.csv')
+main_data = pd.read_csv('dashboard/main_data.csv')
 
 st.title("Air Quality Analysis Dashboard")
 
