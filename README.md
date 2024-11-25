@@ -40,15 +40,8 @@ The dataset consists of air quality data collected over a period of time from 12
 
 ## Installation
 
-### 1. Set Up a Virtual Environment
+### 1. Set Up a Virtual Environment - Shell/Terminal
 
-#### Using Conda
-```
-conda create --name myenv python=3.x
-conda activate myenv
-```
-
-#### Shell/Terminal
 ```
 pipenv install
 pipenv shell
